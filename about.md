@@ -7,34 +7,33 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://p1.pstatp.com/large/3d00055f03bc76f9b7" align="center"></p>
 </center>
 
 欢迎来到我的个人博客。
 clarenous.
 
-###坚信
+###第一
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 123
+- 456 
+- 789
+- 012
 
 
-###关注：
+###第二：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
+- [Gmail](https://mail.google.com)
+- C++
 - Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+- [Twitter](https://twitter.com/)
 
 
 
 
-###代表作：
+###第三：
 
 - [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
 
@@ -43,12 +42,9 @@ clarenous.
 - [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
-###我的朋友们
+###第四：
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+
 
 ###联系
 
