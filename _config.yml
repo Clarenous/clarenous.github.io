@@ -2,15 +2,15 @@
 title: Clarenous
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "个人博客|记录学习"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://unexpandfourier"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Clarenous"
+  email: clarenous@126.com
+  bio: "N/A"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
