@@ -1,7 +1,7 @@
 # Site settings
 title: Clarenous
 header-img: "img/green.jpg"
-tagline: "cn"  
+tagline: "cl"  
 description: "个人博客|记录学习"  
 baseurl: ""
 url: "http://unexpandfourier"  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Clarenous"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
