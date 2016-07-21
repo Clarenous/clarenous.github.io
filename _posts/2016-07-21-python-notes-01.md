@@ -47,9 +47,9 @@ description: Python 笔记第1页
 
 BIF 即 Built-in-Functions，内置函数。
 
-在Python 中输入 dir(__builtins__)可以查看Python 的内置方法列表（builtins 前后分别有两个下划线），其中小写的就是BIF。
+在Python 中输入 `dir(__builtins__)`可以查看Python 的内置方法列表（builtins 前后分别有两个下划线），其中小写的就是BIF。
 
-当我们想查看某个BIF 的功能，例如 print()，可以在 Shell 中输入 help(print)，会显示详细的英文描述。
+当我们想查看某个BIF 的功能，例如 print()，可以在 Shell 中输入 `help(print)`，会显示详细的英文描述。
 
 例如：
 
