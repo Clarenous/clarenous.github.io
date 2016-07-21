@@ -15,6 +15,7 @@ description: Python 笔记第1页
 
     >>> print (r'\nhhh')
     \nhhh
+
 但是使用此方法时，原始字符串的最后一个字符不能是 \ ，否则编译器会报错。解决办法是，例如想要输出“C:\Program Files\Adobe\”，就应把最后一个字符单独拿出来转义：
 
     >>> str = r'C:\Program Files\Adobe''\\'
