@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 初学 Python 的一些笔记（01）
 date: 2016-07-21
